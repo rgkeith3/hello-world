@@ -8,3 +8,5 @@ kill all celebrities
 
 ^those^ edits were edits directly to the master
 now i've made a branch and these edits aren't in the master branch.
+
+now i'm going to write a commit message
